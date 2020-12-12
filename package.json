@@ -25,6 +25,7 @@
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.0.0",
     "dotenv": "^8.0.0",
+    "ethers": "^5.0.24",
     "truffle": "^5.1.14"
   },
   "resolutions": {
